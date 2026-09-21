@@ -34,7 +34,9 @@ Bus steps may have poor visibility, especially during night travel or in low-lig
 
 The sensor is connected to the control section, and the LED is connected to the output section. When the sensor detects a passenger, it sends a signal to the switching circuit, which turns ON the LED.
 
-## ![][image1]
+## **Stimulation**
+
+![](stimulation.jpg)
 
 ## **5.⚙️Working**
 
@@ -57,8 +59,8 @@ When the passenger moves away and is no longer detected, the sensor output chang
 7. Observed the LED turning ON automatically.  
 8. Moved away from the sensor and observed the LED turning OFF.  
 9. Verified the automatic operation of the system.
-
-![][image2]
+## **Project**
+![](project.jpg)
 
 ## **7.✅Results**
 
